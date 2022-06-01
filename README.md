@@ -12,9 +12,7 @@ Add reactions to a message with
 +react <#channel> <messageID> <emoji>...
 ```
 
-!!! note
-
-    Reactor can only react with emojis from the server or emojis already used on the message
+> **Note:** Reactor can only react with emojis from the server or emojis already used on the message
 
 
 Remove any added reactions from a message again with
